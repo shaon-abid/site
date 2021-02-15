@@ -1,37 +1,72 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/shaon-abid/site/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Shaon's Personal Site</title>
+    <link rel="stylesheet" href="css/styles.css">
+  </head>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shaon-abid/site/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+  <body>
+    <table cellspacing="20">
+      <tr>
+        <td><img src="images/shaon.png" alt="Shaon profile picture"></td>
+        <td><h1>Shaon Abid</h1>
+        <p><em>Founder and CTO of <strong><a href="www.digitalmarketingbangladesh.com">Digital Marketing Bangladesh</a></strong>.</em></p>
+        <p>I am a Digital Marketer and Web Developer. I ❤️ tea and coffee.</p></td>
+      </tr>
+    </table>
+    <hr>
+    <h3>Books and Teaching</h3>
+    <ul>
+      <li>The Affiliate Marketing Mastery</li>
+      <li>Digital Marketing Blueprint</li>
+    </ul>
+    <hr>
+    <h3>Work Experience</h3>
+    <table cellspacing="10">
+      <thead>
+        <tr>
+          <th>Dates</th>
+          <th>Work</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>2010-2014</td>
+          <td>Web designer at base Textile</td>
+        </tr>
+        <tr>
+          <td>2014-2018</td>
+          <td>Digital Marketer at Kindred Bakery</td>
+        </tr>
+        <tr>
+          <td>2018-2020</td>
+          <td>Digital Marketer at Digital marketing Bangladesh</td>
+        </tr>
+      </tbody>
+    </table>
+    <hr>
+    <h3>Skills</h3>
+    <table cellspacing="10">
+      <tr>
+        <td>Digital Marketing</td>
+        <td>⭐️⭐️⭐️⭐️⭐️</td>
+      </tr>
+      <tr>
+        <td>Web Development</td>
+        <td>⭐️⭐️⭐️⭐️⭐️</td>
+      </tr>
+       <tr>
+        <td>Affiliate Marketing</td>
+        <td>⭐️⭐️⭐️⭐️⭐️</td>
+      </tr>
+      <tr>
+        <td>WordPress</td>
+        <td>⭐️⭐️⭐️⭐️⭐️</td>
+      </tr>
+    </table>
+    <hr>
+    <a href="contact.html">Contact Me</a>
+  </body>
+</html>
