@@ -4,13 +4,13 @@
   <head>
     <meta charset="utf-8">
     <title>Shaon's Personal Site</title>
-    <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="styles.css">
   </head>
 
   <body>
     <table cellspacing="20">
       <tr>
-        <td><img src="images/shaon.png" alt="Shaon profile picture"></td>
+        <td><img src="shaon.png" alt="Shaon profile picture"></td>
         <td><h1>Shaon Abid</h1>
         <p><em>Founder and CTO of <strong><a href="www.digitalmarketingbangladesh.com">Digital Marketing Bangladesh</a></strong>.</em></p>
         <p>I am a Digital Marketer and Web Developer. I ❤️ tea and coffee.</p></td>
