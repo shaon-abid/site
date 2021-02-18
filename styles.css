@@ -1,0 +1,21 @@
+body {
+background-color: powderblue;
+font-family:cursive;
+}
+
+h1,p,legend,h3 {
+  color: crimson;
+}
+legend {
+	font-size:20px;
+	background-color:yellow;
+}
+
+h3 {
+font-size:20px;
+
+}
+fieldset {
+border: 3px dotted crimson;
+width: 200px;
+}
